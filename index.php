@@ -9,6 +9,7 @@
           <h1><!--This section will describe the structure of the form which will display the details of the selected record and consequently basically be the structure of -->
         <!-- modal which will display and update that record--> </h1>
         <div id="modal_id">
+          <!-- comment -->
           <form>
                 <div class="form-group">
                   <label for="exampleUsername">Username</label>
